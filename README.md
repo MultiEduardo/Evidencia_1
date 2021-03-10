@@ -9,7 +9,7 @@ _Si no se cuenta con Java 11 en su maquina lo podrá descargar e instalar (sigui
 La aplicación al ser totalmente portable podrá ser ejecutado en cualquier sistema operativo que cuente con Java ya que esta configurada como FAT JAR
 ```
 # Construido con 🛠️
-* [Java SE Development Kit 11]
+* [Java SE Development Kit 11](https://www.oracle.com/mx/java/technologies/javase-jdk11-downloads.html)
 * [IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/) - Framework utilizado
 * [GitHub] - Usado para crear repositorio en linea
 
