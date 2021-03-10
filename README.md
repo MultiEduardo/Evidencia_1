@@ -17,4 +17,4 @@ La aplicación al ser totalmente portable podrá ser ejecutado en cualquier sist
 * **Bryan Vazquez** - *Trabajo Inicial y Documentación* - [lopinga123](https://github.com/lopinga123)
 
 ## Licencia 📄
-Este proyecto esta bajo la Licencia (Licence Bryan Vazquez
+Este proyecto esta bajo la Licencia (Licence Bryan Vazquez)
