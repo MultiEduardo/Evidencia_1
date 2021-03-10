@@ -10,7 +10,7 @@ La aplicación al ser totalmente portable podrá ser ejecutado en cualquier sist
 ```
 # Construido con 🛠️
 * [Java SE Development Kit 11]
-* [IntelliJ IDEA] (https://www.jetbrains.com/es-es/idea/) - Framework utilizado
+* [IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/) - Framework utilizado
 * [GitHub] - Usado para crear repositorio en linea
 
 ## Creditos ✒️
