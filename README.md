@@ -14,7 +14,7 @@ La aplicación al ser totalmente portable podrá ser ejecutado en cualquier sist
 * [GitHub] - Usado para crear repositorio en linea
 
 ## Creditos ✒️
-* **Bryan Vazquez** - *Trabajo Inicial y Documentación* - [lopinga123](https://github.com/lopinga123)
+* **Bryan Vazquez** - *Trabajo Inicial y Documentación* - [MultiEduardo](https://github.com/MultiEduardo)
 
 ## Licencia 📄
 Este proyecto esta bajo la Licencia (Licence Bryan Vazquez
